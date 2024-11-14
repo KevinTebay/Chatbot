@@ -22,6 +22,7 @@ qanda = {
     "difference": "Not only can you help charities with their web-presence and fund raising, you can help Open Source projects make a massive difference to millions of lives",
     "difficult": "It's no more difficult than any other respected A-level",
     "easy": "It's no more difficult than any other respected A-level. However most of my students say it is much easier than Maths or Psychology",
+    "exams": "The course is assessed by exams. You will take 2 exams in year 12 and 2 exams in year 13. There's a coding exam on computer, but no essays.",
     "fun": "Yes it is, according to my year 12 and 13 students.",
     "game": "In CS we will show you the coding and tools to make games",
     "grade": "Grades are very good in CS, but what's even better are the amazing university offers! CS students from Garden are being offered lower grade tariffs at a wide range of prestigious universities.",
