@@ -101,7 +101,7 @@ while True:
     # If the function gives nothing back, it sends you to me...A pro chatbot would alert a human in the same way.
 
     if response == None:
-        print("Sorry I'm not the smartest chatbot...Perhaps better ask Mr Abela")
+        print("Sorry I'm not the smartest chatbot...Perhaps better ask Mr Tebay or Mr Abela")
     else:
         print(response)
 
